@@ -1,6 +1,6 @@
 cask "gootd" do
-  version "1.0"
-  sha256 "6b06e8991ada45052b9ecfd87390517f500665055b0f5e94e9695a9c0e690c13"
+  version "1.1"
+  sha256 "88c5c1f782196291997fc442fe7159bd06b5b594c3a7b53692d8c2da15afd814"
 
   url "https://gootd.vercel.app/Gootd.dmg"
   name "Gootd"
